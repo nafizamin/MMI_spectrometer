@@ -13,3 +13,7 @@
 
 Because of the large size of the CNN model and test dataset containing MMI images, it is uploaded into a different location. Please visit [here](https://drive.google.com/drive/folders/1thUxohggtbqFM6D34zgAkGZy3eAWGqDK?usp=sharing)
 
+
+## How to test the model
+
+Download the model and testset and place them in the same directory as the notebook. The notebook contains instructions on how to evaluate the performance of the model on the testset
